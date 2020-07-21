@@ -1,0 +1,149 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.bg-gris {
+	background: #f2f2f2;
+}
+
+.cabecera {
+	background-color: #7b81db;
+	background: url('../img/imagenBan.png') no-repeat center center;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+}
+ 
+#contenido {
+	padding: 100px;
+	margin: 25px 0;
+}
+
+#pie {
+	background-color: #1e2b38;
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+.menu {
+	margin: 20px 0;
+}
+
+.menu ul li {
+	padding: 5px;
+}
+
+.menu a {
+	border-bottom: 2px solid transparent;
+}
+
+.menu a:hover {
+	border-bottom: 2px solid white;
+} 
+
+.contenedor-texto {
+	margin: 190px 0;
+}
+
+.text {
+	padding: 0 20px;
+	margin-bottom: 20px;
+}
+
+.text h1, .text h2 {
+	color: #fff;
+}
+
+#acerca-de {
+	line-height: 30px;
+	color: #797d7a; 
+}
+
+#trabajos {
+	/*background: #f2f2f2;*/
+	padding: 60px 0;
+	margin-bottom: 25px;
+}
+
+.nombre {
+	font-size: 50px;
+	line-height: 50px;
+}
+
+.profesion {
+	font-size: 25px;
+	line-height: 25px;
+}
+
+.trabajos2 {
+	margin: 30px;
+}
+
+.txt-blanco {
+	color: #fff;
+}
+
+.pics {
+	padding: 15px;
+	margin: 15px;
+	background-color: #c9a885;
+	border: 1px solid black;
+}
+
+.titulo {
+	color: #3895ea;
+	font-size: 30px;
+	padding: 20px;
+}
+
+.titulo1 {
+	color: #ad316f;
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+
+input[type="text"], input[type="email"], #mensaje {
+	border: 2px solid #cecece;
+	border-radius: 5px;
+	font-size: 20px;
+	color: #a4a4a4;
+	font-size: 20px;
+}
+
+footer .redes {
+	font-size: 30px;
+	text-align: center;
+}
+
+footer .redes a {
+	color: #fff;
+	border-radius: 3px;
+	padding: 15px;
+	margin: 20px;
+}
+
+footer .redes .twitter:hover { 
+	background: #1da1f2; 
+}
+
+footer .redes .github:hover { 
+	background: #666666; 
+}
+
+footer .redes .instagram:hover { 
+	background: #3f729b; 
+}
+
+.nav-link {
+	color: #FFF;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#contacto {
+	padding: 80px;
+	margin-bottom: 25px;
+}
+
